@@ -17,14 +17,13 @@ Freshman, Psychology Major, Loyola University of Maryland
 ## Projects
 
 #### Personality Test
-![Screenshot of Personality Test]()
 ![Link to Project](insert hyper link here)
  - Project 1 Summary
  - Personality test was done in Python. 
  - I wanted to make a test to determine the personalities of all who took the test.
  - I used Pycharm in conjunction with Python and Github in order to reach my end product.
  - I ran into a repository issue where the file had been previously saved but access could not be secured so I needed to find a work around.
- - [insert project 1 screenshot here]
+![Screenshot of Personality Test](https://github.com/nick-ram0220/nicholasramirez.portfolio2/blob/main/assests/Screenshot%202026-04-20%20at%2013.37.03.png)
  - Project 1 Report
 ***
 #### Project 2 Title
