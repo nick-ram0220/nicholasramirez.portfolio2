@@ -2,7 +2,7 @@
 # Nicholas Ramirez
 ## Portfolio
 Contact Info: @naramirez@loyola.edu, @nickyram0220@gmail.com
-
+![Self Portrait]()
 ***
 ## About Me 
 Hello! I am an experienced Psychology Student and Certified Personal Trainer with over 3 years of proven expertise in Weight Loss and Hypertrophy. 
@@ -23,7 +23,7 @@ Freshman, Psychology Major, Loyola University of Maryland
  - I wanted to make a test to determine the personalities of all who took the test.
  - I used Pycharm in conjunction with Python and Github in order to reach my end product.
  - I ran into a repository issue where the file had been previously saved but access could not be secured so I needed to find a work around.
-![Screenshot of Personality Test](https://github.com/nick-ram0220/nicholasramirez.portfolio2/blob/main/assests/Screenshot%202026-04-20%20at%2013.37.03.png)
+![Screenshot of Personality Test]()
  - Project 1 Report
 ***
 #### Project 2 Title
