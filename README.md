@@ -17,7 +17,7 @@ Freshman, Psychology Major, Loyola University of Maryland
 ## Projects
 
 #### Personality Test
-![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-nick-ram0220.git)
+![Screenshot 2026-04-21 at 23.25.23.png](assests/Screenshot%202026-04-21%20at%2023.25.23.png)
 Project 1 Summary
 Personality test was done in Python. 
 I wanted to make a test to determine the personalities of all who took the test.
@@ -26,11 +26,11 @@ I ran into a repository issue where the file had been previously saved but acces
  so I needed to find a work around.
 I managed to achieve my end goal and make a working personality test, If I could make any improvements
 I would like to make it look more presentable than just normal programming screens with black and other colors
-![Screenshot 2026-04-21 at 23.25.23.png](assests/Screenshot%202026-04-21%20at%2023.25.23.png)
+![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-nick-ram0220.git)
 
 ***
 #### Grade Calculator
-![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-2-nick-ram0220.git)
+![Screenshot 2026-04-21 at 23.24.05.png](assests/Screenshot%202026-04-21%20at%2023.24.05.png)
 Project 2 Summary:
 I created my Grade Calculator inside of Python. I was tasked to create a grade calculator that weighed
 in GPA as well as percentages for the Grades in response to quiz's and exam grades and weights.
@@ -41,10 +41,10 @@ In the end I managed to get it to work somehow, but I kept messing up the code a
 and keeping everything laid out in an organized way that way when I did make a mistake, I could easily find it and correct it.
 I can't think of any direct changes that I could make, but maybe creating a website out of it that way it's not as ugly and far more
 user friendly, with everything being spread out and visible. 
-![Screenshot 2026-04-21 at 23.24.05.png](assests/Screenshot%202026-04-21%20at%2023.24.05.png)
+![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-2-nick-ram0220.git)
 ***
 #### Budget Sheet
-![Link to Project](https://studentsloyola-my.sharepoint.com/:x:/r/personal/naramirez_loyola_edu/Documents/Coffee%20Shop%20Inventory%20Assignment.xlsx?d=we20b2979c9b7477a984e2c28685cbedd&csf=1&web=1&e=86Bvvc)
+![Screenshot 2026-04-21 at 23.32.15.png](assests/Screenshot%202026-04-21%20at%2023.32.15.png)
 Project 3 Summary:
 I had made a Budget Spread Sheet in order to keep track of finances and expenses as if I had run my own
 coffee shop within Microsoft Sheets. I did this in order to practice my mastery over Sheets and all the tools within
@@ -54,5 +54,6 @@ I had entered the proper values in the boxes before I could even reference it, c
 I sort of managed to complete the task at hand however it was not entirely impressive, so if I could manage to make any changes
 I would change the layout and the order I had all the information to make it a little easier to understand as well as traverse, that
 way I could keep track of all my finances, not just within the bounds of the Coffee Shop scenario.
- - [insert project 3 screenshot here]
+![Link to Project](https://studentsloyola-my.sharepoint.com/:x:/r/personal/naramirez_loyola_edu/Documents/Coffee%20Shop%20Inventory%20Assignment.xlsx?d=we20b2979c9b7477a984e2c28685cbedd&csf=1&web=1&e=86Bvvc)
+ 
  
