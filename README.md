@@ -44,6 +44,7 @@ user friendly, with everything being spread out and visible.
 ![Screenshot 2026-04-21 at 23.24.05.png](assests/Screenshot%202026-04-21%20at%2023.24.05.png)
 ***
 #### Budget Sheet
+![Link to Project](https://studentsloyola-my.sharepoint.com/:x:/r/personal/naramirez_loyola_edu/Documents/Coffee%20Shop%20Inventory%20Assignment.xlsx?d=we20b2979c9b7477a984e2c28685cbedd&csf=1&web=1&e=86Bvvc)
 Project 3 Summary:
 I had made a Budget Spread Sheet in order to keep track of finances and expenses as if I had run my own
 coffee shop within Microsoft Sheets. I did this in order to practice my mastery over Sheets and all the tools within
