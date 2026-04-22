@@ -2,7 +2,7 @@
 # Nicholas Ramirez
 ## Portfolio
 Contact Info: @naramirez@loyola.edu, @nickyram0220@gmail.com
-![Self Portrait]()
+(![B3AFD36D-7B40-4BD1-8985-7565616B3ACA.JPEG](assests/B3AFD36D-7B40-4BD1-8985-7565616B3ACA.JPEG))
 ***
 ## About Me 
 Hello! I am an experienced Psychology Student and Certified Personal Trainer with over 3 years of proven expertise in Weight Loss and Hypertrophy. 
@@ -18,21 +18,40 @@ Freshman, Psychology Major, Loyola University of Maryland
 
 #### Personality Test
 ![Link to Project](insert hyper link here)
- - Project 1 Summary
- - Personality test was done in Python. 
- - I wanted to make a test to determine the personalities of all who took the test.
- - I used Pycharm in conjunction with Python and Github in order to reach my end product.
- - I ran into a repository issue where the file had been previously saved but access could not be secured so I needed to find a work around.
+Project 1 Summary
+Personality test was done in Python. 
+I wanted to make a test to determine the personalities of all who took the test.
+I used Pycharm in conjunction with Python and Github in order to reach my end product.
+I ran into a repository issue where the file had been previously saved but access could not be secured,
+ so I needed to find a work around.
+I managed to achieve my end goal and make a working personality test, If I could make any improvements
+I would like to make it look more presentable than just normal programming screens with black and other colors
 ![Screenshot of Personality Test]()
- - Project 1 Report
+
 ***
-#### Project 2 Title
+#### Grade Calculator
 ![Link to Project](insert hyper link here)
- - Project 2 Summary
+Project 2 Summary:
+I created my Grade Calculator inside of Python. I was tasked to create a grade calculator that weighed
+in GPA as well as percentages for the Grades in response to quiz's and exam grades and weights.
+In order to have made it I needed to use both Python and Github to reach the end goal of creating the calculator.
+My biggest issue was trying to remember all the lines of code needed to divide, subtract, multiply, and take into account
+all the different variables in order for it to work properly. Managing all those factors gave me a huge headache.
+In the end I managed to get it to work somehow, but I kept messing up the code and forgetting small things like periods, parenthesis
+and keeping everything laid out in an organized way that way when I did make a mistake, I could easily find it and correct it.
+I can't think of any direct changes that I could make, but maybe creating a website out of it that way it's not as ugly and far more
+user friendly, with everything being spread out and visible. 
  - [insert project 2 screenshot here]
- - Project 2 Report
 ***
-#### Project 3 Title
- - Project 3 Summary
+#### Budget Sheet
+Project 3 Summary:
+I had made a Budget Spread Sheet in order to keep track of finances and expenses as if I had run my own
+coffee shop within Microsoft Sheets. I did this in order to practice my mastery over Sheets and all the tools within
+such as referencing different columns or other sheets to create diagrams. My biggest issue was forgetting the commands
+in order to reference different numbers on other sheets or boxes, thus making me need to backtrack a lot and make sure that
+I had entered the proper values in the boxes before I could even reference it, creating a little bit of a hassle managing it all.
+I sort of managed to complete the task at hand however it was not entirely impressive, so if I could manage to make any changes
+I would change the layout and the order I had all the information to make it a little easier to understand as well as traverse, that
+way I could keep track of all my finances, not just within the bounds of the Coffee Shop scenario.
  - [insert project 3 screenshot here]
  - Project 3 Report
