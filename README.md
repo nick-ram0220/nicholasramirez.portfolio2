@@ -17,7 +17,7 @@ Freshman, Psychology Major, Loyola University of Maryland
 ## Projects
 
 #### Personality Test
-![Link to Project](insert hyper link here)
+![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-nick-ram0220.git)
 Project 1 Summary
 Personality test was done in Python. 
 I wanted to make a test to determine the personalities of all who took the test.
@@ -30,7 +30,7 @@ I would like to make it look more presentable than just normal programming scree
 
 ***
 #### Grade Calculator
-![Link to Project](insert hyper link here)
+![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-2-nick-ram0220.git)
 Project 2 Summary:
 I created my Grade Calculator inside of Python. I was tasked to create a grade calculator that weighed
 in GPA as well as percentages for the Grades in response to quiz's and exam grades and weights.
@@ -54,4 +54,4 @@ I sort of managed to complete the task at hand however it was not entirely impre
 I would change the layout and the order I had all the information to make it a little easier to understand as well as traverse, that
 way I could keep track of all my finances, not just within the bounds of the Coffee Shop scenario.
  - [insert project 3 screenshot here]
- - Project 3 Report
+ 
