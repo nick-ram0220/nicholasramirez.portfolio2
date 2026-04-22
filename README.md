@@ -1,7 +1,6 @@
-# CS105/6/7/8 Portfolio
-# Nicholas Ramirez
-## Portfolio
+# Portfolio
 Contact Info: @naramirez@loyola.edu, @nickyram0220@gmail.com
+
 ***
 ## About Me 
 Hello! I am an experienced Psychology Student and Certified Personal Trainer with over 3 years of proven expertise in Weight Loss and Hypertrophy. 
@@ -15,22 +14,24 @@ Freshman, Psychology Major, Loyola University of Maryland
 ***
 ## Projects
 
-#### Personality Test
+### Personality Test
 ![Screenshot 2026-04-21 at 23.25.23.png](assests/Screenshot%202026-04-21%20at%2023.25.23.png)
-Project 1 Summary
+Project 1 Summary: 
+
 Personality test was done in Python. 
 I wanted to make a test to determine the personalities of all who took the test.
 I used Pycharm in conjunction with Python and Github in order to reach my end product.
 I ran into a repository issue where the file had been previously saved but access could not be secured,
- so I needed to find a work around.
+so I needed to find a work around.
 I managed to achieve my end goal and make a working personality test, If I could make any improvements
 I would like to make it look more presentable than just normal programming screens with black and other colors
 ![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-nick-ram0220.git)
 
 ***
-#### Grade Calculator
+### Grade Calculator
 ![Screenshot 2026-04-21 at 23.24.05.png](assests/Screenshot%202026-04-21%20at%2023.24.05.png)
 Project 2 Summary:
+
 I created my Grade Calculator inside of Python. I was tasked to create a grade calculator that weighed
 in GPA as well as percentages for the Grades in response to quiz's and exam grades and weights.
 In order to have made it I needed to use both Python and Github to reach the end goal of creating the calculator.
@@ -42,9 +43,10 @@ I can't think of any direct changes that I could make, but maybe creating a webs
 user friendly, with everything being spread out and visible. 
 ![Link to Project](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-2-nick-ram0220.git)
 ***
-#### Budget Sheet
+### Budget Sheet
 ![Screenshot 2026-04-21 at 23.32.15.png](assests/Screenshot%202026-04-21%20at%2023.32.15.png)
 Project 3 Summary:
+
 I had made a Budget Spread Sheet in order to keep track of finances and expenses as if I had run my own
 coffee shop within Microsoft Sheets. I did this in order to practice my mastery over Sheets and all the tools within
 such as referencing different columns or other sheets to create diagrams. My biggest issue was forgetting the commands
