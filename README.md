@@ -26,7 +26,7 @@ I ran into a repository issue where the file had been previously saved but acces
  so I needed to find a work around.
 I managed to achieve my end goal and make a working personality test, If I could make any improvements
 I would like to make it look more presentable than just normal programming screens with black and other colors
-![Screenshot of Personality Test]()
+![Screenshot 2026-04-21 at 23.25.23.png](assests/Screenshot%202026-04-21%20at%2023.25.23.png)
 
 ***
 #### Grade Calculator
@@ -41,7 +41,7 @@ In the end I managed to get it to work somehow, but I kept messing up the code a
 and keeping everything laid out in an organized way that way when I did make a mistake, I could easily find it and correct it.
 I can't think of any direct changes that I could make, but maybe creating a website out of it that way it's not as ugly and far more
 user friendly, with everything being spread out and visible. 
- - [insert project 2 screenshot here]
+![Screenshot 2026-04-21 at 23.24.05.png](assests/Screenshot%202026-04-21%20at%2023.24.05.png)
 ***
 #### Budget Sheet
 Project 3 Summary:
