@@ -2,7 +2,6 @@
 # Nicholas Ramirez
 ## Portfolio
 Contact Info: @naramirez@loyola.edu, @nickyram0220@gmail.com
-(![B3AFD36D-7B40-4BD1-8985-7565616B3ACA.JPEG](assests/B3AFD36D-7B40-4BD1-8985-7565616B3ACA.JPEG))
 ***
 ## About Me 
 Hello! I am an experienced Psychology Student and Certified Personal Trainer with over 3 years of proven expertise in Weight Loss and Hypertrophy. 
